@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date:
+## Date:16/10/2025
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
@@ -32,7 +32,7 @@ Publish the website in the LocalHost.
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Dribbble Clone -  DEEKSHITHA S</title>
+  <title>Dribbble Clone -  DEEKSHITHA S (25014669)</title>
   <link 
     href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" 
     rel="stylesheet" />
@@ -314,7 +314,7 @@ Publish the website in the LocalHost.
 
  
   <footer>
-    © 2025  DEEKSHITHA S — Built with ❤ Bootstrap | Inspired by Dribbble
+    © 2025  DEEKSHITHA S (25014669) — Built with ❤ Bootstrap | Inspired by Dribbble
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
