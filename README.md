@@ -323,7 +323,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](<dribbleproject/myapp/static/Screenshot (50).png>)
+<img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/9d0fdd8e-6533-4a71-8f3c-e98dff355af3" />
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
